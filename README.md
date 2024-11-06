@@ -1,4 +1,3 @@
-# glxgears.test
 # Test your Graphics stack!
 with glxgears & glxinfo
 

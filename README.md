@@ -1,6 +1,6 @@
 # glxgears.test
 # Test your Graphics stack!
-with GLxGears amp; glxinfo
+with GLxGears & glxinfo
 
 command:
 ```
